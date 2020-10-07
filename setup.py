@@ -12,13 +12,14 @@ setup(
     author='Facebook',
     maintainer='Martey Dodoo',
     maintainer_email='martey+facebook-sdk@mobolic.com',
-    url='https://github.com/mobolic/facebook-sdk',
+    url='https://github.com/apnarm/facebook-sdk',
     license='Apache',
     packages=["facebook"],
     long_description=open("README.rst").read(),
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python',
+        'Programming Language :: Python :: 2.7'
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
